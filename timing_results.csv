@@ -1,0 +1,14 @@
+﻿Tool,seconds
+Python: pandas + statsmodel,17
+Python: pandas + numpy,1.5
+Python: numpy only,2.9
+R: data.table + lm,6
+R: data.table + qr.solve,0.5
+R: tidyverse + lm,12
+R: base + lm,9
+Julia: dataframes + GLM,1.7
+Julia: dataframes + mldivide,0.7
+Matlab: splitapply + fit,35
+Matlab: splitapply + mldivide,0.9
+Matlab: arrays + mldivide,2.3
+Matlab: arrays + mldivide + sorted,0.7
