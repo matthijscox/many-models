@@ -61,7 +61,7 @@ stop = timeit.default_timer()
 
 print('Pandas + lstsq timing: {:.2f} seconds'.format(stop - start))
 
-# flatten doubly nested array (not generic for more groupings)
+# flatten doubly nested array
 resid = np.array([vec for arr in tst.values for vec in arr])
 
 # Root-mean-square comparison to Matlab reference (should be << 1):
