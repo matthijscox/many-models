@@ -1,9 +1,9 @@
 # many-models
-Testing the elegance and execution time of running many models in various languages
+Testing the elegance and execution time of running many models in various languages.
 
 ----------
 
-The system I'm running everything has the following specs:
+The system I'm running everything on has the following specs:
 <dl>
 <dd>Processor: i7-4810MQ @ 2.80Ghz</dd>
 <dd>RAM: 32 GB</dd>
